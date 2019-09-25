@@ -1,0 +1,2 @@
+class ClockTime < ApplicationRecord
+end
